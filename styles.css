@@ -1,0 +1,133 @@
+@media screen and (min-width:768px),screen and (max-height:1080px){
+body{
+    background:url("1.jpeg") no-repeat center;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.centered {
+    position: absolute;
+    top: 8%;
+    left: 51%;
+    transform: translate(-50%, -50%);
+    color:white;
+    letter-spacing:13px;
+    font-size:40px;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+  }
+  img.middle{
+    vertical-align:middle;
+}
+  
+  
+
+.trunks{
+    text-align:justify;
+    color:white;
+    position:absolute;
+    top: 19%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    line-height:1.4;
+    font-family: 'Source Sans Pro', sans-serif;
+    word-spacing: 1px;
+    
+    }
+
+.supreme2{
+background-color:white;
+position:absolute;
+top: 59%;
+left: 52%;
+transform: translate(-50%, -50%);
+font-family: 'Source Sans Pro', sans-serif;
+font-weight:lighter;
+width:460px;
+height:460px;
+box-sizing: border-box;
+border:none;
+padding:30px;
+color:gray;
+
+}
+input{
+	border:1px solid gray;
+    font-family: 'Source Sans Pro', sans-serif;
+	width: 90%;
+	height:30px;
+	margin-left: 9px;
+	padding-left: 10px;
+
+}
+select{
+  position: absolute;
+  top: 26px;
+  right: 37px;
+  border:none;
+  color:gray;
+}
+.register{
+    width:95%;
+    font-family: 'Source Sans Pro', sans-serif;
+	font-size: 15px;
+	margin-top: 10px;
+    margin-left: 8px;
+    text-align: center;
+	padding-top:  10px;
+	padding-bottom:  10px;
+	padding-left: 30px;
+	padding-right: 30px;
+    border:none;
+  	background-color:#1c82ff; 
+  	color:white;
+}
+input[type="checkbox"]{
+    width:10px;
+    height:10px;
+    border:1px solid black;
+    border-radius:0;
+}
+.cell{
+    font-family: 'Source Sans Pro', sans-serif;
+    color:#1c82ff;
+    font-size:15px;
+}
+.goten{
+    color:rgb(19, 10, 10);
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size:15px;
+    
+}
+.hello{
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size:16px;
+}
+.rebel{
+    position: absolute;
+    top: 98%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    font-size:15px;
+    color:white;
+    font-family: 'Source Sans Pro', sans-serif;
+    opacity:0.9;
+}
+}
+.trunks{
+    text-align:center;
+    color:white;
+    position:absolute;
+    top: 19%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    line-height:1.4;
+    font-family: 'Source Sans Pro', sans-serif;
+    word-spacing: 1px;
+    }
+    img.middle{
+        vertical-align:middle;
+    }
+  
